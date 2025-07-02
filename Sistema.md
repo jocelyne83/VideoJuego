@@ -31,3 +31,18 @@
 - Botiquín: Recupera una vida.
 - Pastillas mentales: Calman al personaje (pueden anular efectos de susto o confusión).
 - Vela espiritual: Crea una zona segura temporal donde los fantasmas no entran.
+
+## Mecánicas Especiales
+- Inventario limitado a 6 objetos.
+- Modo sigilo(caminar agachado): reduce el ruido y la detección.
+- El ruido(puertas, correr, hablar): atrae enemigos.
+
+## Recompensas al Eliminar Criaturas
+
+- Solo las criaturas deformes otorgan recompensas al morir.
+- 40% de probabilidad de soltar una recompensa.
+- Recompensas posibles:
+  - Batería
+  - Botiquín pequeño
+  - Fragmento de pista
+- Las recompensas se pueden recoger por cualquier jugador cercano.
