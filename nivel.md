@@ -15,4 +15,20 @@ Un entorno clínico donde se percibe el olor a desinfectante. Las luces son frí
 
 ![imagenhospital](./img/hospital.jpg)
 
+ 🏫 Escuela
+
+Un lugar lleno de pizarras, sillas y murales. 
+La escuela esta en ruinas, con escritorios polvorientos y con utiles de antiguos alumnos que aun siguen merodeando en sus antiguos lugares de entretenimiento.
+
+**Elementos comunes:**
+- Salones con bancas desordenados
+- Pizarrones con palabras a medio borrar
+- Pasillos con casilleros abiertos
+- Biblioteca destrozada
+- Sonidos de pasos o risas lejanas
+
+![imagenescuela](./img/escuela.jpg)
+
+
+
 Niveles
