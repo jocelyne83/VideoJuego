@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Historia</h1>
+<h1>Videojuego de terror</h1>
 <p> Durante años, los rumores sobre edificios abandonados plagados de actividad paranormal fueron ignorados como simples leyendas urbanas. Sin embargo, un equipo de exploradores conocidos como los scout ghoost decidieron enfrentarse a lo desconocido, guiados por una mezcla de curiosidad y una obsesión por descubrir la verdad del sitio.
 
 Su primera misión los llevó a un hospital psiquiátrico olvidado, clausurado repentinamente en los años 80 tras una serie de eventos sin explicación. Entre los registros oficiales solo quedaron frases vagas: “pacientes desaparecidos”, “conducta anormal del personal” y “presencias hostiles”.
@@ -19,7 +19,7 @@ Entre las sombras también se ocultaban criaturas deformes, entes físicos que n
 
 Aquel hospital fue solo el inicio.
 
-La investigación los llevará a una mansión maldita, una escuela abandonada y otros sitios donde la oscuridad ha echado raíces. Cada lugar abandonado guarda secretos, enemigos distintos… y pistas sobre una fuerza mayor que está despertando.</p>
+La investigación los llevará a una mansión maldita, una escuela abandonada y otros sitios donde la oscuridad ha echado raíces. Cada lugar abandonado guarda secretos, enemigos distintos.</p>
 
 </body>
 </html>
