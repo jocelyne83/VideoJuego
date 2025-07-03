@@ -1,4 +1,4 @@
-# VideoJuego scout ghoost
+# VideoJuego
 
 
 # Videojuego de terror 
@@ -11,6 +11,7 @@
 
 
 
+# VideoJuego scout ghoost
 
 
 # Descripcion:
