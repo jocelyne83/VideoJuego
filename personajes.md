@@ -2,6 +2,10 @@
 
 ![equipo](./img/equipo.png)
 
+Un grupo dispar unido por la desesperación, cada miembro arrastra su propio pasado oscuro y habilidades únicas para enfrentar las entidades sobrenaturales que los persiguen. No son superhéroes, sino personas rotas que luchan por mantenerse con vida un día más.
+
+
+
 <h1>Personajes</h1>
 
 <h1>Heroes</h1>
