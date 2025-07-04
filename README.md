@@ -1,17 +1,12 @@
-# VideoJuego
+# VideoJuego scout ghoost
 
 
 # Videojuego de terror 
+# integrantes
 # Ernesto Guzman 
 # Jennifer Lopez
 # Jocelyne Vega
 # Daniela Villa 
-
-
-
-
-
-# VideoJuego scout ghoost
 
 
 # Descripcion:
