@@ -1,8 +1,6 @@
 # VideoJuego scout ghoost
 
-
-# Videojuego de terror 
-# integrantes
+# integrantes:
 # Ernesto Guzman 
 # Jennifer Lopez
 # Jocelyne Vega
